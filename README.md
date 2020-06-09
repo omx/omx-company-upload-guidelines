@@ -23,6 +23,7 @@ Please take the time to create a robust, attribute-rich dataset before uploading
 * File must have a CSV file extension
 * File must have a text MIME type
 * Header rows are optional, but if present must match the column names exactly
+* Columns must be presented in the order presented in the requirements section
 
 # Column Requirements
 
