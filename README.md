@@ -99,7 +99,7 @@ Please take the time to create a robust, attribute-rich dataset before uploading
     <td></td>
   </tr>
   <tr>
-    <td>country_id</td>
+    <td>country_code</td>
     <td>Yes</td>
     <td>Text</td>
     <td>2</td>
