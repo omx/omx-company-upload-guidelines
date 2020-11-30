@@ -112,6 +112,13 @@ Please take the time to create a robust, attribute-rich dataset before uploading
     <td>10</td>
     <td></td>
   </tr>
+  <tr>
+    <td>spend_level</td>
+    <td>No</td>
+    <td>Text</td>
+    <td>10</td>
+    <td>Must be one of the following values: `low`, `medium`, `high`, `critical`</td>
+  </tr>
 </table>
 
 # Abuse
