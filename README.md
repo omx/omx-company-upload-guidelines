@@ -1,4 +1,4 @@
-<center><a href='https://theomx.com'><img src="https://theomx.com/assets/new/omx_logo-e309ca445f44378e718aa40cd5c054c14d18337b4706f912ec3ec47935432af1.png" width="200" ></a></center>
+<center><a href='https://theomx.com'><img src="https://s3.amazonaws.com/omx-live/companies/logos/000/053/568/thumb/OMX_-_High-Resolution.jpg" width="200" ></a></center>
 
 # Overview
 
