@@ -114,6 +114,12 @@ Please take the time to create a robust, attribute-rich dataset before uploading
   </tr>
 </table>
 
+# What Happens When a Company is Uploaded
+
+The uploader first validates that the file is properly formatted. If it finds errors, it reports the first few and asks you to fix the file (and any identical subsequent errors) before re-uploading. If the file is valid, each company is then used to search for a matching company in the database. Where possible matches are found, those matches are presented to the uploading user to confirm. If a company can't be matched, a new company is created. When a new company is created, the company name, location and LEI code are used to create that company in the database. Further, if a pin or tag has been specified, that pin or tag is applied on behalf of the uploading user.
+
+No existing company data is overwritten as part of the uploading process.
+
 # Abuse
 
 Although validation errors are allowed, errors which result from what appear to be deliberate attempts to inject false data or malware into OMX, or to break or compromise OMX in any way, will cause the offending user and company to be banned, and may also result in legal redress.
