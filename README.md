@@ -57,13 +57,6 @@ Please take the time to create a robust, attribute-rich dataset before uploading
     <td></td>
   </tr>
   <tr>
-    <td>cage</td>
-    <td>No</td>
-    <td>Text</td>
-    <td>5</td>
-    <td></td>
-  </tr>
-  <tr>
     <td>website</td>
     <td>Yes</td>
     <td>URL</td>
