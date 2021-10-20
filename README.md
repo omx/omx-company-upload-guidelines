@@ -66,9 +66,9 @@ Please take the time to create a robust, attribute-rich dataset before uploading
   <tr>
     <td>phone</td>
     <td>Yes</td>
-    <td>Text</td>
+    <td>Integer</td>
     <td>15</td>
-    <td></td>
+    <td>No other characters, please</td>
   </tr>
   <tr>
     <td>street_address</td>
