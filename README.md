@@ -124,7 +124,7 @@ Please take the time to create a robust, attribute-rich dataset before uploading
     <td>No</td>
     <td>Numeric</td>
     <td></td>
-    <td>Must be greater than or equal to 0</td>
+    <td>Value must be in thousands of USD. Must be greater than or equal to 0</td>
   </tr>
   <tr>
     <td>aboriginal_owned</td>
