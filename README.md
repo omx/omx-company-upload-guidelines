@@ -66,9 +66,9 @@ Please take the time to create a robust, attribute-rich dataset before uploading
   <tr>
     <td>phone</td>
     <td>Yes</td>
-    <td>Integer</td>
+    <td>Numeric</td>
     <td>15</td>
-    <td>No other characters, please</td>
+    <td>Must only contain integers</td>
   </tr>
   <tr>
     <td>street_address</td>
@@ -110,7 +110,98 @@ Please take the time to create a robust, attribute-rich dataset before uploading
     <td>No</td>
     <td>Text</td>
     <td>10</td>
-    <td>Must be one of the following values: `low`, `medium`, `high`, `critical`</td>
+    <td>Must be one of the following values: "low", "medium", "high", "critical"</td>
+  </tr>
+  <tr>
+    <td>employees_total</td>
+    <td>No</td>
+    <td>Numeric</td>
+    <td></td>
+    <td>Must be an integer greater than or equal to 0</td>
+  </tr>
+  <tr>
+    <td>annual_sales</td>
+    <td>No</td>
+    <td>Numeric</td>
+    <td></td>
+    <td>Must be greater than or equal to 0</td>
+  </tr>
+  <tr>
+    <td>aboriginal_owned</td>
+    <td>No</td>
+    <td>Text</td>
+    <td>3</td>
+    <td>Must be one of the following values: "Yes" or empty</td>
+  </tr>
+  <tr>
+    <td>aboriginal_led</td>
+    <td>No</td>
+    <td>Text</td>
+    <td>3</td>
+    <td>Must be one of the following values: "Yes" or empty</td>
+  </tr>
+  <tr>
+    <td>women_owned</td>
+    <td>No</td>
+    <td>Text</td>
+    <td>3</td>
+    <td>Must be one of the following values: "Yes" or empty</td>
+  </tr>
+  <tr>
+    <td>women_led</td>
+    <td>No</td>
+    <td>Text</td>
+    <td>3</td>
+    <td>Must be one of the following values: "Yes" or empty</td>
+  </tr>
+  <tr>
+    <td>lgbtq_owned</td>
+    <td>No</td>
+    <td>Text</td>
+    <td>3</td>
+    <td>Must be one of the following values: "Yes" or empty</td>
+  </tr>
+  <tr>
+    <td>lgbtq_led</td>
+    <td>No</td>
+    <td>Text</td>
+    <td>3</td>
+    <td>Must be one of the following values: "Yes" or empty</td>
+  </tr>
+  <tr>
+    <td>veteran_owned</td>
+    <td>No</td>
+    <td>Text</td>
+    <td>3</td>
+    <td>Must be one of the following values: "Yes" or empty</td>
+  </tr>
+  <tr>
+    <td>veteran_led</td>
+    <td>No</td>
+    <td>Text</td>
+    <td>3</td>
+    <td>Must be one of the following values: "Yes" or empty</td>
+  </tr>
+  <tr>
+    <td>minority_owned</td>
+    <td>No</td>
+    <td>Text</td>
+    <td>3</td>
+    <td>Must be one of the following values: "Yes" or empty</td>
+  </tr>
+  <tr>
+    <td>minority_led</td>
+    <td>No</td>
+    <td>Text</td>
+    <td>3</td>
+    <td>Must be one of the following values: "Yes" or empty</td>
+  </tr>
+  <tr>
+    <td>external_id</td>
+    <td>No</td>
+    <td>Text</td>
+    <td>20</td>
+    <td></td>
   </tr>
 </table>
 
