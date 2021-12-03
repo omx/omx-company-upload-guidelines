@@ -100,7 +100,7 @@ Please take the time to create a robust, attribute-rich dataset before uploading
   </tr>
   <tr>
     <td>postal_code</td>
-    <td>Yes</td>
+    <td>No</td>
     <td>Text</td>
     <td>10</td>
     <td></td>
