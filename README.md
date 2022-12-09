@@ -1,20 +1,20 @@
-<center><a href='https://theomx.com'><img src="https://s3.amazonaws.com/omx-live/companies/logos/000/053/568/thumb/OMX_-_High-Resolution.jpg" width="200" ></a></center>
+<center><a href='https://esgperformance.sustainalytics.com'><img src="https://s3.amazonaws.com/omx-live/companies/logos/000/053/568/thumb/OMX_-_High-Resolution.jpg" width="200" ></a></center>
 
 # Overview
 
-If you are a suitably permissioned company user on OMX, you can upload a list of companies to the marketplace which will appear as "pinned" organizations on your Companies page. This specification explains the requirements for creating an uploadable CSV of companies, which may change over time.
+If you are a suitably permissioned company user on ESG Assessment Platform, you can upload a list of companies to the marketplace which will appear as "pinned" organizations on your Companies page. This specification explains the requirements for creating an uploadable CSV of companies, which may change over time.
 
-Once a file has been validated, it will be uploaded in real-time into OMX and analyzed to ascertain if each company is:
+Once a file has been validated, it will be uploaded in real-time into ESG Assessment Platform and analyzed to ascertain if each company is:
 
-* A reasonably definitive match with an existing organization in OMX, in which case that organization will be automatically pinned, although you will have an opportunity to override that match.
-* A possible match with an existing organization in OMX, in which case you will have an opportunity to confirm whether the match is or is not correct
-* Not a match with any organization in OMX, in which case the organization will be added on your behalf and then automatically pinned
+* A reasonably definitive match with an existing organization in ESG Assessment Platform, in which case that organization will be automatically pinned, although you will have an opportunity to override that match.
+* A possible match with an existing organization in ESG Assessment Platform, in which case you will have an opportunity to confirm whether the match is or is not correct
+* Not a match with any organization in ESG Assessment Platform, in which case the organization will be added on your behalf and then automatically pinned
 
 # Important
 
-Although not all available columns are mandatory, it is <b>strongly recommended</b> that the company data you upload contain as many attributes as possible. Uploading a minimum of attributes will decrease the number of automatic matches against existing organizations in the OMX database, which will decrease the quality of your experience in OMX.
+Although not all available columns are mandatory, it is <b>strongly recommended</b> that the company data you upload contain as many attributes as possible. Uploading a minimum of attributes will decrease the number of automatic matches against existing organizations in the ESG Assessment Platform database, which will decrease the quality of your experience in ESG Assessment Platform.
 
-Please take the time to create a robust, attribute-rich dataset before uploading to OMX.
+Please take the time to create a robust, attribute-rich dataset before uploading to ESG Assessment Platform.
 
 # File Requirements
 
@@ -96,7 +96,7 @@ Please take the time to create a robust, attribute-rich dataset before uploading
     <td>Yes</td>
     <td>Text</td>
     <td>2</td>
-    <td>Must be a <a target='_blank' href='https://theomx.com/country_codes'>valid two-letter ISO country code<a/> </td>
+    <td>Must be a <a target='_blank' href='https://https://esgperformance.sustainalytics.com/country_codes'>valid two-letter ISO country code<a/> </td>
   </tr>
   <tr>
     <td>postal_code</td>
@@ -213,8 +213,8 @@ No existing company data is overwritten as part of the uploading process.
 
 # Abuse
 
-Although validation errors are allowed, errors which result from what appear to be deliberate attempts to inject false data or malware into OMX, or to break or compromise OMX in any way, will cause the offending user and company to be banned, and may also result in legal redress.
+Although validation errors are allowed, errors which result from what appear to be deliberate attempts to inject false data or malware into ESG Assessment Platform, or to break or compromise ESG Assessment Platform in any way, will cause the offending user and company to be banned, and may also result in legal redress.
 
 # Please Contact Us
 
-Although every effort has been made to ensure that this documentation accurately reflects the process for company upload in OMX, please advise us if you discover any discrepancies.
+Although every effort has been made to ensure that this documentation accurately reflects the process for company upload in ESG Assessment Platform, please advise us if you discover any discrepancies.
