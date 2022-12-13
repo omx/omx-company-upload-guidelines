@@ -2,19 +2,19 @@
 
 # Overview
 
-If you are a suitably permissioned company user on ESG Assessment Platform, you can upload a list of companies to the marketplace which will appear as "pinned" organizations on your Companies page. This specification explains the requirements for creating an uploadable CSV of companies, which may change over time.
+If you are a suitably permissioned company user on ESG Assessment Platform (EAP), you can upload a list of companies to the marketplace which will appear as "pinned" organizations on your Companies page. This specification explains the requirements for creating an uploadable CSV of companies, which may change over time.
 
-Once a file has been validated, it will be uploaded in real-time into ESG Assessment Platform and analyzed to ascertain if each company is:
+Once a file has been validated, it will be uploaded in real-time into EAP and analyzed to ascertain if each company is:
 
-* A reasonably definitive match with an existing organization in ESG Assessment Platform, in which case that organization will be automatically pinned, although you will have an opportunity to override that match.
-* A possible match with an existing organization in ESG Assessment Platform, in which case you will have an opportunity to confirm whether the match is or is not correct
-* Not a match with any organization in ESG Assessment Platform, in which case the organization will be added on your behalf and then automatically pinned
+* A reasonably definitive match with an existing organization in EAP, in which case that organization will be automatically pinned, although you will have an opportunity to override that match.
+* A possible match with an existing organization in EAP, in which case you will have an opportunity to confirm whether the match is or is not correct
+* Not a match with any organization in EAP, in which case the organization will be added on your behalf and then automatically pinned
 
 # Important
 
-Although not all available columns are mandatory, it is <b>strongly recommended</b> that the company data you upload contain as many attributes as possible. Uploading a minimum of attributes will decrease the number of automatic matches against existing organizations in the ESG Assessment Platform database, which will decrease the quality of your experience in ESG Assessment Platform.
+Although not all available columns are mandatory, it is <b>strongly recommended</b> that the company data you upload contain as many attributes as possible. Uploading a minimum of attributes will decrease the number of automatic matches against existing organizations in the EAP database, which will decrease the quality of your experience in EAP.
 
-Please take the time to create a robust, attribute-rich dataset before uploading to ESG Assessment Platform.
+Please take the time to create a robust, attribute-rich dataset before uploading to EAP.
 
 # File Requirements
 
@@ -213,8 +213,8 @@ No existing company data is overwritten as part of the uploading process.
 
 # Abuse
 
-Although validation errors are allowed, errors which result from what appear to be deliberate attempts to inject false data or malware into ESG Assessment Platform, or to break or compromise ESG Assessment Platform in any way, will cause the offending user and company to be banned, and may also result in legal redress.
+Although validation errors are allowed, errors which result from what appear to be deliberate attempts to inject false data or malware into EAP, or to break or compromise EAP in any way, will cause the offending user and company to be banned, and may also result in legal redress.
 
 # Please Contact Us
 
-Although every effort has been made to ensure that this documentation accurately reflects the process for company upload in ESG Assessment Platform, please advise us if you discover any discrepancies.
+Although every effort has been made to ensure that this documentation accurately reflects the process for company upload in EAP, please advise us if you discover any discrepancies.
