@@ -1,5 +1,3 @@
-<center><a href='https://esgperformance.sustainalytics.com'><img src="https://s3.amazonaws.com/omx-live/companies/logos/000/053/568/thumb/OMX_-_High-Resolution.jpg" width="200" ></a></center>
-
 # Overview
 
 If you are a suitably permissioned company user on ESG Assessment Platform (EAP), you can upload a list of companies to the marketplace which will appear as "pinned" organizations on your Companies page. This specification explains the requirements for creating an uploadable CSV of companies, which may change over time.
