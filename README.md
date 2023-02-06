@@ -153,14 +153,14 @@ Please take the time to create a robust, attribute-rich dataset before uploading
     <td>Must be one of the following values: "Yes" or empty</td>
   </tr>
   <tr>
-    <td>lgbtq_owned</td>
+    <td>lgbt_owned</td>
     <td>No</td>
     <td>Text</td>
     <td>3</td>
     <td>Must be one of the following values: "Yes" or empty</td>
   </tr>
   <tr>
-    <td>lgbtq_led</td>
+    <td>lgbt_led</td>
     <td>No</td>
     <td>Text</td>
     <td>3</td>
