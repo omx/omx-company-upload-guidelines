@@ -94,7 +94,7 @@ Please take the time to create a robust, attribute-rich dataset before uploading
     <td>Yes</td>
     <td>Text</td>
     <td>2</td>
-    <td>Must be a <a target='_blank' href='https://https://esgperformance.sustainalytics.com/country_codes'>valid two-letter ISO country code<a/> </td>
+    <td>Must be a <a target='_blank' href='https://esgperformance.sustainalytics.com/country_codes'>valid two-letter ISO country code<a/> </td>
   </tr>
   <tr>
     <td>postal_code</td>
