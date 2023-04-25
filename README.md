@@ -201,6 +201,13 @@ Please take the time to create a robust, attribute-rich dataset before uploading
     <td>20</td>
     <td></td>
   </tr>
+  <tr>
+    <td>pitchbook_id</td>
+    <td>No</td>
+    <td>Text</td>
+    <td></td>
+    <td>Must be a sequence of 1 or more digits followed by a dash and 2 more digits. Example: 12345-67</td>
+  </tr>
 </table>
 
 # What Happens When a Company is Uploaded
