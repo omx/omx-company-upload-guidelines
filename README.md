@@ -1,6 +1,6 @@
 # Overview
 
-If you are a suitably permissioned company user on ~ESG~OMX Assessment Platform (EAP), you can upload a list of companies to the marketplace which will appear as "pinned" organizations on your Companies page. This specification explains the requirements for creating an uploadable CSV of companies, which may change over time.
+If you are a suitably permissioned company user on ESG Assessment Platform (EAP), you can upload a list of companies to the marketplace which will appear as "pinned" organizations on your Companies page. This specification explains the requirements for creating an uploadable CSV of companies, which may change over time.
 
 Once a file has been validated, it will be uploaded in real-time into EAP and analyzed to ascertain if each company is:
 
